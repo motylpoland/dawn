@@ -1937,9 +1937,6 @@
         "show_text_below": {
           "label": "Auf Mobilgeräten Text unterhalb der Bilder anzeigen"
         },
-        "adapt_height_image": {
-          "label": "Höhe des Banners an das Bild anpassen"
-        },
         "image_height": {
           "label": "Bannerhöhe",
           "options__1": {
